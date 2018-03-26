@@ -1,5 +1,5 @@
 
-var OSinfo = require('../modules/OSInfo');
+var OSinfo = require('../modules/OSinfo');
 
 process.stdin.setEncoding('utf-8');
 
